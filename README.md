@@ -1,14 +1,49 @@
 ### Hi there 👋
 My name is Robert Gessler
 
-<!--
-**RAGessler/ragessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on the second sprint of my CRM.
-- 🌱 I’m currently refining my React skills.
-- 📫 How to reach me: RAGessler@Gmail.com and on LinkedIn
 - 💻 I am a full stack developer!
+- 🔭 I’m currently working on the second sprint of my CRM/Capstone Project.
+- 🌱 I’m currently refining my React and MUI skills.
+- 📫 How to reach me: RAGessler@Gmail.com and on LinkedIn
 - ⚡ Fun fact: One of my favorite books is Start With Why.
--->
+
+---
+My Tools:
+
+Design-Project Management
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="XD logo" width="50" height="50" /> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" alt="Draw IO logo" width="50" height="50" />
+
+Languages & Frontend
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt=" JavaScript logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt=" HTML5 logo" width="50" height="50" />
+
+BackEnd-ORM's
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" />
+
+CI/CD 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker logo" width="50" height="50" />
+
+Databases
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50" />
+
+IDE
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code logo" width="50" height="50" />
+
+Version Control & Package Managers
+
+<img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="GitHub logo" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="50" height="50" />
+
+Styling
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI logo" width="100" height="50" />
+
+3rd Party API Integrations
+<img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-icon-app-logo-png-9.png" alt="Youtube" width="50" height="50" />
+
+Amazon Web Services
+ <img src="https://images.edrawsoft.com/images2020/icon/Elastic%20Load%20Balancing.png" alt="ELB logo" width="50" height="50" />
+<!-- **RAGessler/ragessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
