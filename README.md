@@ -4,7 +4,7 @@ My name is Robert Gessler
 - 💻 I am a full stack developer!
 - 🔭 I’m currently working on the second sprint of my CRM/Capstone Project.
 - 🌱 I’m currently refining my React and MUI skills.
-- 📫 How to reach me: RAGessler@Gmail.com and on LinkedIn
+- 📫 How to reach me: RAGessler@Gmail.com and on [LinkedIn](https://www.linkedin.com/in/robertalexandergessler/)
 - ⚡ Fun fact: One of my favorite books is Start With Why.
 
 ---
