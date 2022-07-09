@@ -2,8 +2,8 @@
 My name is Robert Gessler
 
 - 💻 I am a full stack developer!
-- 🔭 I’m currently working on the second sprint of my Personal CRM!
-- 🌱 I’m currently learning more about AWS and looking to become certified in the near future!
+- 🔭 I’m currently looking forward to starting my first web development job (hopefully) in the near future!
+- 🌱 I’m currently sharpening my JS and React skills
 - 📫 How to reach me: RAGessler@Gmail.com and on [LinkedIn](https://www.linkedin.com/in/robertalexandergessler/)
 - ⚡ Fun fact: One of my favorite books is Start With Why.
 
