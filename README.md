@@ -1,6 +1,9 @@
 ### Hi there 👋
 My name is Robert Gessler
 
+If you notice a recent gap in my commits, Ive taken a short break from writing code while I recover from COVID. 
+Should be feeling well enough here in a few days to start working on some projects again. 
+
 - 💻 I am a full stack developer!
 - 🔭 I’m currently looking forward to starting my first web development job (hopefully) in the near future!
 - 🌱 I’m currently sharpening my JS and React skills
