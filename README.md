@@ -16,12 +16,12 @@ Design-Project Management
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="XD logo" width="50" height="50" /> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" alt="Draw IO logo" width="50" height="50" />
 
-Languages & Frontend
+Frontend Skills
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt=" JavaScript logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt=" HTML5 logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt=" JavaScript logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt=" HTML5 logo" width="50" height="50" />
 
-BackEnd-ORM's
-
+BackEnd Skills
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50" height="50" />
 
 CI/CD 
@@ -47,6 +47,7 @@ Styling
 3rd Party API Integrations
 
 <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-icon-app-logo-png-9.png" alt="Youtube" width="50" height="50" />
+<img src="https://hn.algolia.com/packs/media/images/logo-hn-search-a822432b.png" alt="Hacker News" width="50" height="50" />
 
 Amazon Web Services
 
