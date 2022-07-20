@@ -1,12 +1,11 @@
 ### Hi there 👋
 My name is Robert Gessler
 
-If you notice a recent gap in my commits, Ive taken a short break from writing code while I recover from COVID. 
-Should be feeling well enough here in a few days to start working on some projects again. 
+If you notice a recent gap in my commits, I took a short break from writing code to recover from COVID... All good now so no need to worry, but make sure your virus protection is up to date if we jump on a phone call ha-ha!
 
-- 💻 I am a full stack developer!
+- 💻 I am a full stack developer, but I particularly excell in the front end.
 - 🔭 I’m currently looking forward to starting my first web development job (hopefully) in the near future!
-- 🌱 I’m currently sharpening my JS and React skills
+- 🌱 I’m currently sharpening my algorythmn skills aswell as taking an AWS course through ACloud Guru!
 - 📫 How to reach me: RAGessler@Gmail.com and on [LinkedIn](https://www.linkedin.com/in/robertalexandergessler/)
 - ⚡ Fun fact: One of my favorite books is Start With Why.
 
