@@ -5,7 +5,7 @@ If you notice a recent gap in my commits, I took a short break from writing code
 
 - 💻 I am a full stack developer, but I particularly excel in the front end.
 - 🔭 I’m currently looking forward to starting my first web development job (hopefully) in the near future!
-- 🌱 I’m currently sharpening my algorythmn skills aswell as taking an AWS course through ACloud Guru!
+- 🌱 I’m currently sharpening my algorithm skills aswell as taking an AWS course through ACloud Guru!
 - 📫 How to reach me: RAGessler@Gmail.com and on [LinkedIn](https://www.linkedin.com/in/robertalexandergessler/)
 - ⚡ Fun fact: One of my favorite books is Start With Why.
 
