@@ -4,8 +4,8 @@ My name is Robert Gessler
 If you notice a recent gap in my commits, I took a short break from writing code to recover from COVID... All good now so no need to worry, but make sure your virus protection is up to date if we jump on a phone call ha-ha!
 
 - 💻 I am a full stack developer, but I particularly excel in the front end.
-- 🔭 I’m currently looking forward to starting my first web development job (hopefully) in the near future!
-- 🌱 I’m currently sharpening my algorithm skills aswell as taking an AWS course through ACloud Guru!
+- 🔭 Looking forward to getting my foot in the door with my first tech job.  Please reach out to me if youre looking for an enthusiastic Junior Engineer to add to your team!
+- 🌱 Right now, I am in the planning stages of a new full stack application, see my armory repo for details!
 - 📫 How to reach me: RAGessler@Gmail.com and on [LinkedIn](https://www.linkedin.com/in/robertalexandergessler/)
 - ⚡ Fun fact: One of my favorite books is Start With Why.
 
