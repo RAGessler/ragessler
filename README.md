@@ -5,7 +5,7 @@ If you notice a recent gap in my commits, I took a short break from writing code
 
 - 💻 I am a full stack developer, but I particularly excel in the front end.
 - 🔭 Looking forward to getting my foot in the door with my first tech job.  Please reach out to me if youre looking for an enthusiastic Junior Engineer to add to your team!
-- 🌱 Right now, I am in the planning stages of a new full stack application, see my armory repo for details!
+- 🌱 Right now, I am in the planning stages of a new full stack application, see my Armory-app repo for details!
 - 📫 How to reach me: RAGessler@Gmail.com and on [LinkedIn](https://www.linkedin.com/in/robertalexandergessler/)
 - ⚡ Fun fact: One of my favorite books is Start With Why.
 
