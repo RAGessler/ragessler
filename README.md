@@ -1,13 +1,6 @@
 ### Hi there 👋
 My name is Robert Gessler
 
-
-- 💻 I am a full stack developer! But I particularly enjoy working on the front end.
-- 🌱 I just started working at my first job as a Software Engineer!
-- 🔭 I am looking forward to getting real work expierence and learning a ton from my new team!
-- 📫 How to reach me: RAGessler@Gmail.com and on [LinkedIn](https://www.linkedin.com/in/robertalexandergessler/)
-- ⚡ Fun fact: One of my favorite books is Start With Why.
-
 ---
 My Tools:
 
